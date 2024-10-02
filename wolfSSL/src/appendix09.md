@@ -15,7 +15,7 @@ environments.
 
 ### Getting Started with Arduino
 
-Getting started with wolfSSL has never been easier. Weve recently updated our library as published on the Arduino libraries site, listed in the Communications section:
+Getting started with wolfSSL has never been easier. We've recently updated our library as published on the Arduino libraries site, listed in the Communications section:
 
 https://www.arduino.cc/reference/en/libraries/wolfssl/
 
